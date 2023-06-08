@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: in.basicAPI.spingbootmongodb.SpingbootmongodbApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.368 s - in in.basicAPI.spingbootmongodb.SpingbootmongodbApplicationTests
